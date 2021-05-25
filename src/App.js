@@ -1,9 +1,2 @@
-
-function App() {
-  return (
-    <div className="App">
-    </div>
-  );
-}
-
-export default App;
+import App from './components'
+export default App

@@ -1,0 +1,33 @@
+.container{
+    width: 100vw;
+    height: 10vh;
+    position: relative;
+    margin-bottom: 20vh;
+}
+.list{
+    width: 85%;
+    height: 10vh;
+    position: relative;
+    left: 50%;
+    transform: translateX(-52%);
+    display: inline-flex;
+    justify-content: space-around;
+    list-style: none;
+}
+img{
+    position: relative;
+    top: 40%
+}
+li{
+    position: relative;
+    top: 100%;
+    text-decoration: none !important;
+}
+
+link{
+    color: #6a6a6a;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
